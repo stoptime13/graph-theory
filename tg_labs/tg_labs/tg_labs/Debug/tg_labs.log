@@ -1,0 +1,35 @@
+﻿  func.cpp
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.h(3,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : see previous definition of 'INFINITY'
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(9,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(11,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(280,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(282,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(285,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(347,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(835,83): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(877,78): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(959,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(978,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1326,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1339,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1353,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1380,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1382,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1393,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1396,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1406,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1696,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1700,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1702,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(1862,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(2027,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.cpp(2049,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\func.h(3,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(88): message : see previous definition of 'INFINITY'
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\main.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\tg_labs\main.cpp(31,9): warning C4129: 'L': unrecognized character escape sequence
+  Generating Code...
+  tg_labs.vcxproj -> C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_labs\tg_labs\Debug\tg_labs.exe

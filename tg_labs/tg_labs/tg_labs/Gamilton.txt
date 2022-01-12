@@ -1,0 +1,96 @@
+Hamiltonian cycle:
+1 - 2 - 3 - 4 - 1
+
+
+Weight: 18
+
+Hamiltonian cycle:
+1 - 2 - 4 - 3 - 1
+
+
+Weight: 26
+
+Hamiltonian cycle:
+1 - 3 - 2 - 4 - 1
+
+
+Weight: 25
+
+Hamiltonian cycle:
+1 - 4 - 3 - 2 - 1
+
+
+Weight: 24
+
+Hamiltonian cycle:
+2 - 1 - 4 - 3 - 2
+
+
+Weight: 24
+
+Hamiltonian cycle:
+2 - 3 - 4 - 1 - 2
+
+
+Weight: 18
+
+Hamiltonian cycle:
+2 - 4 - 1 - 3 - 2
+
+
+Weight: 25
+
+Hamiltonian cycle:
+2 - 4 - 3 - 1 - 2
+
+
+Weight: 26
+
+Hamiltonian cycle:
+3 - 1 - 2 - 4 - 3
+
+
+Weight: 26
+
+Hamiltonian cycle:
+3 - 2 - 1 - 4 - 3
+
+
+Weight: 24
+
+Hamiltonian cycle:
+3 - 2 - 4 - 1 - 3
+
+
+Weight: 25
+
+Hamiltonian cycle:
+3 - 4 - 1 - 2 - 3
+
+
+Weight: 18
+
+Hamiltonian cycle:
+4 - 1 - 2 - 3 - 4
+
+
+Weight: 18
+
+Hamiltonian cycle:
+4 - 1 - 3 - 2 - 4
+
+
+Weight: 25
+
+Hamiltonian cycle:
+4 - 3 - 1 - 2 - 4
+
+
+Weight: 26
+
+Hamiltonian cycle:
+4 - 3 - 2 - 1 - 4
+
+
+Weight: 24
+

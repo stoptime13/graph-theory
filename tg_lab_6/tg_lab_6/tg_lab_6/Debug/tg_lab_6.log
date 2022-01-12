@@ -1,0 +1,15 @@
+﻿  func.cpp
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(511,21): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(516,26): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(616,21): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(621,26): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(644,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(663,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(683,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(711,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(742,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\func.cpp(756,24): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\tg_lab_6\main.cpp(48,10): warning C4129: '': unrecognized character escape sequence
+  Generating Code...
+  tg_lab_6.vcxproj -> C:\Users\acer\OneDrive\Рабочий стол\Лабы\Graph Theory\Graph Theory-20210822T153711Z-001\Graph Theory\tg_lab_6\tg_lab_6\Debug\tg_lab_6.exe
